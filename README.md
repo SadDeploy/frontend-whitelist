@@ -142,15 +142,15 @@ Frontend WhiteList — это список полезных и интересн�
 * [Автоматизация хранения графики. Тимофей Чаптыков (Видео :movie_camera:)](https://www.youtube.com/watch?v=tJmI8p6Ms_M)
 * [Cистемы сборки фронтенда. Gulp (Видео :movie_camera:)](https://www.youtube.com/watch?time_continue=5&v=MfnTJh-pQWM)
 * [Суперсилы Chrome Dev Tools. Роман Сальников (Видео :movie_camera:)](https://vimeo.com/107580454)
-* [Стек технологий JavaScript с нуля. Jonathan Verrecchia. Перевод от UsulPro](https://github.com/UsulPro/js-stack-from-scratch)
+* [Стек технологий JavaScript с нуля. Jonathan Verrecchia. Перевод UsulPro](https://github.com/UsulPro/js-stack-from-scratch)
 
 ## Accessibility
-* [Недоступный веб: как мы развели такой бардак. Mischa Andrews. Перевод Алексей Уколов](https://habrahabr.ru/post/309076/)
+* [Недоступный веб: как мы развели такой бардак. Mischa Andrews. Перевод Алексея Уколова](https://habrahabr.ru/post/309076/)
 * [Браузеры наши меньшие, или Нам нужно серьёзно поговорить. Вадим Макеев](https://habrahabr.ru/company/oleg-bunin/blog/310210/)
 * [Альтернативный текст для изображений. Ire Aderinokun. Перевод prgssr.ru](http://prgssr.ru/development/alternativnyj-tekst-dlya-izobrazhenij.html)
 * [Дизайн государственных систем](http://gov.design/blog/2016/11/08/accessibility.html)
 * [Слепая доступность. Юрий Артюх](http://cssing.org.ua/2016/12/26/blind-accessibility/)
-* [Web Content Accessibility Guidelines (WCAG) 2.0. Перевод Даниэль Новичков](https://www.w3.org/Translations/WCAG20-ru/)
+* [Web Content Accessibility Guidelines (WCAG) 2.0. Перевод Даниэля Новичкова](https://www.w3.org/Translations/WCAG20-ru/)
 
 ## Браузеры
 * [Модель отображения. Основы. Олег Мохов (Видео :movie_camera:)](https://www.youtube.com/watch?v=LVqg3N7QYVU)
@@ -164,7 +164,7 @@ Frontend WhiteList — это список полезных и интересн�
 * [Условная загрузка для адаптивного веб-дизайна. Андрей Голуменов](https://habrahabr.ru/post/218497/)
 * [Критический путь рендеринга веб-страниц. Николай Лавлинский](https://habrahabr.ru/post/262239/)
 * [Клиентская точка отказа: SPOF за счет внешних JS-библиотек Николай Лавлинский](https://habrahabr.ru/post/265627/)
-* [Представляем RAIL: модель оценки производительности сайта. Paul Irish и Paul Lewis. Перевод Николай Мациевский](https://habrahabr.ru/post/308026/)
+* [Представляем RAIL: модель оценки производительности сайта. Paul Irish и Paul Lewis. Перевод Николая Мациевского](https://habrahabr.ru/post/308026/)
 * [В погоне за производительностью. Денис Мишунов (Видео :movie_camera:)](https://www.youtube.com/watch?v=egiLQun-FxI)
 * [Производительный client-side. Роман Парадеев (Видео :movie_camera:)](https://www.youtube.com/watch?v=kmhg-cV5Vkg)
 * [Верстка. Вид снизу. Марина Широчкина (Видео :movie_camera:)](https://www.youtube.com/watch?v=9HYHxky799o)
@@ -192,10 +192,10 @@ Frontend WhiteList — это список полезных и интересн�
 #### О готовых решениях
 * [Не учите фреймворки, учите архитектуру](https://habrahabr.ru/post/253297/)
 * [О jQuery и Bootstrap: расставляем точки над «i». Андрей Романов](http://frontender.info/whats-wrong-with-jquery-and-bootstrap/)
-* [NPM и left-pad: мы разучились программировать?. David Haney. Перевод Анатолий Ализар](https://habrahabr.ru/post/280099/)
+* [NPM и left-pad: мы разучились программировать?. David Haney. Перевод Анатолия Ализара](https://habrahabr.ru/post/280099/)
 
 ## User Experience
-* [UX-мифы. Zoltán Gócza и Zoltán Kollin. Перевод Ринат Рехимкулов и Петр Андрианов](http://ru.uxmyths.com/)
+* [UX-мифы. Zoltán Gócza и Zoltán Kollin. Перевод Рината Рехимкулова и Петра Андрианова](http://ru.uxmyths.com/)
 * [Как отравить мобильного пользователя. Martin Michálek. Перевод prgssr.ru](http://prgssr.ru/development/kak-otravit-polzovatelya-s-mobilnym.html)
 
 ## Progressive Enhancement и Graceful degradation
