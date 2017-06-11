@@ -61,6 +61,7 @@ Frontend WhiteList — это список полезных и интересн�
 
 ## CSS
 * ["Сколько весят селекторы?". Юлия Бухвалова](http://css.yoksel.ru/specifity/)
+* ["Советы по написанию современного CSS". Николай Громов](http://nicothin.pro/page/css-solutions)
 
 #### О свойствах
 * [Свойство background-clip и его применения. Ana Tudor. Перевод css-live.ru](http://css-live.ru/articles-css/background-clip-use-cases.html)
