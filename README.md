@@ -209,7 +209,7 @@ Frontend WhiteList — это список полезных и интересн�
 * [Секреты JavaScript ниндзя](http://www.ozon.ru/context/detail/id/22421421/)
 * [JavaScript. Подробное руководство](http://www.ozon.ru/context/detail/id/3881091/)
 * [JavaScript. Оптимизация производительности](http://www.ozon.ru/context/detail/id/18421547/)
-* [Отзывчивый веб-дизайн](http://www.ozon.ru/context/detail/id/7449521/)
+* [Отзывчивый веб-дизайн](https://www.ozon.ru/context/detail/id/8747299/)
 * [Выразительный JavaScript](http://habrahabr.ru/post/240219/)
 * [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru/)
 
