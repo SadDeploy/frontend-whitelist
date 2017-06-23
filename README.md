@@ -94,6 +94,7 @@ Frontend WhiteList — это список полезных и интересн�
 * [Сводная таблица с результатами работы условий](http://dorey.github.io/JavaScript-Equality-Table/)
 * [Область видимости в JavaScript и «поднятие» переменных и объявлений функций](https://habrahabr.ru/post/127482/)
 * [Как работают замыкания (под капотом) в JavaScript. Hexlet](http://habrahabr.ru/company/hexlet/blog/266443/)
+* [Давайте выучим замыкания в JavaScript. Притти Кассириди. Перевод Елены Карякиной](https://htmlacademy.ru/blog/195-lets-learn-javascript-closures)
 * [Асинхронность в JavaScript: Пособие для тех, кто хочет разобраться. Wrike](https://habrahabr.ru/company/wrike/blog/302896/)
 * [Техники работы с DOM: родительские, дочерние и соседние элементы. Louis Lazaris. Перевод prgssr.ru](http://prgssr.ru/development/tehniki-raboty-s-dom-roditelskie-dochernie-i-sosednie-elementy.html)
 * [Фронтенд. DOM, Events. Артем Мезин (Видео :movie_camera:)](https://www.youtube.com/watch?v=b9q2j0RyKPw)
