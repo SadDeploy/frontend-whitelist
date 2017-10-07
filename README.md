@@ -39,6 +39,7 @@ Frontend WhiteList — это список полезных и интересн�
 * [А вы верите в систематизацию, или методологии верстки? Елизавета Селиванова и Ирина Левина](https://www.youtube.com/watch?v=P4ag4JSNWTM)
 * [BEMup для начинающих 09.12.2016. Владимир Гриненко. (Видео :movie_camera:)](https://www.youtube.com/watch?v=Ai-yt0b8iKE&feature=youtu.be)
 * [Слова, часто используемые в CSS-классах. Юлия Бухвалова](https://github.com/yoksel/common-words)
+* [Жми сюда. Вадим Макеев (Видео :movie_camera:)](https://www.youtube.com/watch?v=MWJKwn_gKR4&t=1951s)
 
 ## CSS
 * [Свойство background-clip и его применения. Ana Tudor. Перевод css-live.ru](http://css-live.ru/articles-css/background-clip-use-cases.html)
