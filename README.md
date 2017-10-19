@@ -19,7 +19,7 @@ Frontend WhiteList — это список полезных и интересн�
 * [Производительность](README.md#Производительность)
 * [Не про код](README.md#Не-про-код)
 * [User Experience](README.md#user-experience)
-* [Progressive Enhancement и Graceful degradation](README.md#progressive-enhancement-и-graceful-degradation)
+* [Progressive Enhancement и Graceful degradation](README.md#Методологии)
 * [Книги](README.md#Книги)
 
 ## Верстка
@@ -33,11 +33,6 @@ Frontend WhiteList — это список полезных и интересн�
 * ["Сколько весят селекторы?". Юлия Бухвалова](http://css.yoksel.ru/specifity/)
 * [Как работать с CSS-препроцессорами и БЭМ. Николай Громов](http://nicothin.github.io/idiomatic-pre-CSS/)
 * [Организация кода для CSS препроцессоров. Brian Rinaldi. Перевод Руслана Каймакова](http://frontender.info/organizing-your-css-code-for-preprocessors/)
-* [Битва архитектур. Mariano Miguel. Перевод css-live.ru](http://css-live.ru/articles/bitva-arxitektur.html)
-* [Способы организации CSS-кода](https://habrahabr.ru/post/256109/)
-* [«Пишем БЭМ правильно». Игорь Зенич (Видео :movie_camera:)](https://www.youtube.com/watch?v=hTmxbJF2Tts)
-* [А вы верите в систематизацию, или методологии верстки? Елизавета Селиванова и Ирина Левина (Видео :movie_camera:)](https://www.youtube.com/watch?v=P4ag4JSNWTM)
-* [BEMup для начинающих 09.12.2016. Владимир Гриненко. (Видео :movie_camera:)](https://www.youtube.com/watch?v=Ai-yt0b8iKE&feature=youtu.be)
 * [Слова, часто используемые в CSS-классах. Юлия Бухвалова](https://github.com/yoksel/common-words)
 * [Жми сюда. Вадим Макеев (Видео :movie_camera:)](https://www.youtube.com/watch?v=MWJKwn_gKR4&t=1951s)
 
@@ -157,9 +152,14 @@ Frontend WhiteList — это список полезных и интересн�
 * [UX-мифы. Zoltán Gócza и Zoltán Kollin. Перевод Рината Рехимкулова и Петра Андрианова](http://ru.uxmyths.com/)
 * [Как отравить мобильного пользователя. Martin Michálek. Перевод prgssr.ru](http://prgssr.ru/development/kak-otravit-polzovatelya-s-mobilnym.html)
 
-## Progressive Enhancement и Graceful degradation
+## Методологии
 * [Идеологии разработки веб интерфейсов. Сергей Горобцов (Видео :movie_camera:)](https://www.youtube.com/watch?v=i1DzrxGlO_g)
 * [Улучшение формы комментариев. Michael Scharnagl. Перевод Анны Кухаревой, редактура Вадима Макеева, Юли Бухваловой и Алексея Симоненко](https://medium.com/web-standards/улучшение-формы-комментариев-7b2ad80f0340#.gn04dxtf9)
+* [Битва архитектур. Mariano Miguel. Перевод css-live.ru](http://css-live.ru/articles/bitva-arxitektur.html)
+* [Способы организации CSS-кода](https://habrahabr.ru/post/256109/)
+* [«Пишем БЭМ правильно». Игорь Зенич (Видео :movie_camera:)](https://www.youtube.com/watch?v=hTmxbJF2Tts)
+* [А вы верите в систематизацию, или методологии верстки? Елизавета Селиванова и Ирина Левина (Видео :movie_camera:)](https://www.youtube.com/watch?v=P4ag4JSNWTM)
+* [BEMup для начинающих 09.12.2016. Владимир Гриненко. (Видео :movie_camera:)](https://www.youtube.com/watch?v=Ai-yt0b8iKE&feature=youtu.be)
 
 ## Книги
 * [Методическое пособие для начинающих. Стас Мельников](https://www.gitbook.com/book/melnik909/tutorial-for-beginner-front-end-developer/details)
