@@ -30,8 +30,6 @@ Frontend WhiteList — это список полезных и интересн�
 * [input. Артём Кувалдин (Видео :movie_camera:)](https://www.youtube.com/watch?time_continue=20&v=2uo74fpwCN4)
 * [Делать ли мобильную версию? 5 распространенных проблем, которые решает адаптивная верстка. Опыт Яндекса. Артём Курбатов](https://habrahabr.ru/company/yandex/blog/307064/)
 * [Вёрстка для мобильных устройств. Артём Кувалдин и Олег Мохов (Видео :movie_camera:)](https://www.youtube.com/watch?v=cmt2A_kT8Fs)
-* [Как работать с CSS-препроцессорами и БЭМ. Николай Громов](http://nicothin.github.io/idiomatic-pre-CSS/)
-* [Организация кода для CSS препроцессоров. Brian Rinaldi. Перевод Руслана Каймакова](http://frontender.info/organizing-your-css-code-for-preprocessors/)
 * [Слова, часто используемые в CSS-классах. Юлия Бухвалова](https://github.com/yoksel/common-words)
 * [Жми сюда. Вадим Макеев (Видео :movie_camera:)](https://www.youtube.com/watch?v=MWJKwn_gKR4&t=1951s)
 
@@ -107,6 +105,8 @@ Frontend WhiteList — это список полезных и интересн�
 * [Cистемы сборки фронтенда. Gulp (Видео :movie_camera:)](https://www.youtube.com/watch?time_continue=5&v=MfnTJh-pQWM)
 * [Суперсилы Chrome Dev Tools. Роман Сальников (Видео :movie_camera:)](https://vimeo.com/107580454)
 * [Стек технологий JavaScript с нуля. Jonathan Verrecchia. Перевод UsulPro](https://github.com/UsulPro/js-stack-from-scratch)
+* [Как работать с CSS-препроцессорами и БЭМ. Николай Громов](http://nicothin.github.io/idiomatic-pre-CSS/)
+* [Организация кода для CSS препроцессоров. Brian Rinaldi. Перевод Руслана Каймакова](http://frontender.info/organizing-your-css-code-for-preprocessors/)
 
 ## Accessibility
 * [Недоступный веб: как мы развели такой бардак. Mischa Andrews. Перевод Алексея Уколова](https://habrahabr.ru/post/309076/)
