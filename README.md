@@ -47,6 +47,7 @@ Frontend WhiteList — это список полезных и интересн�
 * [Как я научился любить скучные мелочи CSS. Peter Gaston. Перевод Веб-стандарты](http://web-standards.ru/articles/boring-bits-of-css/)
 * [«Загадочные отступы» между инлайн-элементами. Максим Усачев](http://css-live.ru/articles/zagadochnye-otstupy-mezhdu-inlajn-blokami.html)
 * [flex-grow странный. Так ли это?. Перевод Максима Усачева](http://css-live.ru/articles/flex-grow-strannyj-tak-li-eto.html)
+* [Вариативные шрифты. Юлия Бухвалова](http://css.yoksel.ru/opentype-variable-fonts/)
 
 ## JavaScript
 * [4 вида утечек памяти в JavaScript и как с ними бороться. Андрей Алексеев](https://habrahabr.ru/post/309318/)
