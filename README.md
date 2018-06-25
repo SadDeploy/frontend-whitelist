@@ -84,6 +84,7 @@ Frontend WhiteList — это список полезных и интересн�
 * [О jQuery и Bootstrap: расставляем точки над «i». Андрей Романов](http://frontender.info/whats-wrong-with-jquery-and-bootstrap/)
 * [Цена использования фреймворков. Paul Lewis. Перевод Mail.Ru Group](https://habrahabr.ru/company/mailru/blog/273613/)
 * [Жизнь после js-фреймворков. Андрей Ваганов (Видео :movie_camera:)](https://www.youtube.com/watch?v=-W7kFbCXVqw)
+* [25 ошибок начинающего программиста. Перевод Рустама Апаева](https://habr.com/post/413129/)
 
 ## Анимация
 * [Производительность визуализации](https://developers.google.com/web/fundamentals/performance/rendering/)
