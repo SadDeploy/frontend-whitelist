@@ -32,9 +32,6 @@ Frontend WhiteList — это список полезных и интересн�
 * [Вёрстка для мобильных устройств. Артём Кувалдин и Олег Мохов (Видео :movie_camera:)](https://www.youtube.com/watch?v=cmt2A_kT8Fs)
 * [Слова, часто используемые в CSS-классах. Юлия Бухвалова](https://github.com/yoksel/common-words)
 * [Жми сюда. Вадим Макеев (Видео :movie_camera:)](https://www.youtube.com/watch?v=MWJKwn_gKR4&t=1951s)
-* [Ошибки и спорные вопросы в HTML-CSS вёрстке. Часть 1. Николай Громов](http://nicothin.pro/page/oshibki-i-spornye-voprosy-v-html-css-vjorstke)
-* [Ошибки и спорные вопросы в HTML-CSS вёрстке. Часть 2. Николай Громов](http://nicothin.pro/page/oshibki-i-spornye-voprosy-v-html-css-vjorstke-2)
-* [Ошибки и спорные вопросы в HTML-CSS вёрстке. Часть 3. Николай Громов](http://nicothin.pro/page/oshibki-i-spornye-voprosy-v-html-css-vjorstke-3)
 
 ## CSS
 * ["Сколько весят селекторы?". Юлия Бухвалова](http://css.yoksel.ru/specifity/)
@@ -88,6 +85,9 @@ Frontend WhiteList — это список полезных и интересн�
 * [Цена использования фреймворков. Paul Lewis. Перевод Mail.Ru Group](https://habrahabr.ru/company/mailru/blog/273613/)
 * [Жизнь после js-фреймворков. Андрей Ваганов (Видео :movie_camera:)](https://www.youtube.com/watch?v=-W7kFbCXVqw)
 * [25 ошибок начинающего программиста. Перевод Рустама Апаева](https://habr.com/post/413129/)
+* [Ошибки и спорные вопросы в HTML-CSS вёрстке. Часть 1. Николай Громов](http://nicothin.pro/page/oshibki-i-spornye-voprosy-v-html-css-vjorstke)
+* [Ошибки и спорные вопросы в HTML-CSS вёрстке. Часть 2. Николай Громов](http://nicothin.pro/page/oshibki-i-spornye-voprosy-v-html-css-vjorstke-2)
+* [Ошибки и спорные вопросы в HTML-CSS вёрстке. Часть 3. Николай Громов](http://nicothin.pro/page/oshibki-i-spornye-voprosy-v-html-css-vjorstke-3)
 
 ## Анимация
 * [Производительность визуализации](https://developers.google.com/web/fundamentals/performance/rendering/)
