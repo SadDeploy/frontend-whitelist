@@ -74,20 +74,6 @@ Frontend WhiteList — это список полезных и интересн�
 * [CSS-маски для hover-эффекта](https://habrahabr.ru/post/164409/)
 * [Intermediate CSS3 Hover Effects. Пошаговый туториал](https://habrahabr.ru/post/274003/)
 
-## Инструменты
-* [Автоматизация для фронтендеров. Роберт Харитонов (Видео :movie_camera:)](https://www.youtube.com/watch?v=y9ERi0PhHEo)
-* [Bower: зачем фронтенду нужен менеджер пакетов. Артём Сапегин](http://nano.sapegin.ru/all/bower)
-* [Введение в пакетный менеджер NPM для начинающих. Peter Dierx. Перевод prgssr.ru](http://prgssr.ru/development/vvedenie-v-paketnyj-menedzher-npm-dlya-nachinayushih.html)
-* [Автоматизация регрессионного тестирования CSS. Garris Shipon. Перевод prgssr.ru](http://prgssr.ru/development/avtomatizaciya-regressionnogo-testirovaniya-css-2016.html)
-* [Перевод книги "Pro Git"](https://git-scm.com/book/ru/v1)
-* [Модульная сборка БЭМ-проектов. И никаких bem-tools. Владимир Гриненко (Видео :movie_camera:)](https://www.youtube.com/watch?time_continue=9&v=mHVgZZTJLdk)
-* [Автоматизация хранения графики. Тимофей Чаптыков (Видео :movie_camera:)](https://www.youtube.com/watch?v=tJmI8p6Ms_M)
-* [Cистемы сборки фронтенда. Gulp (Видео :movie_camera:)](https://www.youtube.com/watch?time_continue=5&v=MfnTJh-pQWM)
-* [Суперсилы Chrome Dev Tools. Роман Сальников (Видео :movie_camera:)](https://vimeo.com/107580454)
-* [Стек технологий JavaScript с нуля. Jonathan Verrecchia. Перевод UsulPro](https://github.com/UsulPro/js-stack-from-scratch)
-* [Как работать с CSS-препроцессорами и БЭМ. Николай Громов](http://nicothin.github.io/idiomatic-pre-CSS/)
-* [Организация кода для CSS препроцессоров. Brian Rinaldi. Перевод Руслана Каймакова](http://frontender.info/organizing-your-css-code-for-preprocessors/)
-
 ## Accessibility
 * [Недоступный веб: как мы развели такой бардак. Mischa Andrews. Перевод Алексея Уколова](https://habrahabr.ru/post/309076/)
 * [Браузеры наши меньшие, или Нам нужно серьёзно поговорить. Вадим Макеев](https://habrahabr.ru/company/oleg-bunin/blog/310210/)
