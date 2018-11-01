@@ -42,26 +42,6 @@ Frontend WhiteList — это список полезных и интересн�
 * [Техники работы с DOM: родительские, дочерние и соседние элементы. Louis Lazaris. Перевод prgssr.ru](http://prgssr.ru/development/tehniki-raboty-s-dom-roditelskie-dochernie-i-sosednie-elementy.html)
 * [Фронтенд. DOM, Events. Артем Мезин (Видео :movie_camera:)](https://www.youtube.com/watch?v=b9q2j0RyKPw)
 
-## Советы
-* [Распространенные ошибки начинающего HTML-верстальщика. Стас Мельников](https://habrahabr.ru/post/307210/)
-* [Краш-тест вёрстки](https://isqua.ru/blog/2016/06/19/crash-test-viorstki/)
-* ["Что поправить в верстке перед выпуском в продакшн?". Антон Ахатов](https://habrahabr.ru/post/319664/)
-* ["Советы по написанию современного CSS". Николай Громов](http://nicothin.pro/page/css-solutions)
-* [Основные правила и принципы написания CSS. Гарри Робертс. Перевод Владимира Старкова](https://github.com/iamstarkov/CSS-Guidelines/blob/master/README%20Russian.md)
-* [Плохой код #1. Евгений Бовыкин](http://jsraccoon.ru/exercise-bad-code-one)
-* [8 правил хорошего JavaScript-кода. Антон Супрун](http://popel-studio.com/blog/article/8-pravil-horoshego-javascript-koda.html)
-* [FrontendLab: Признаки хорошей верстки. Роман Братченко (Видео :movie_camera:)](https://www.youtube.com/watch?v=lXgoTAhuEfo)
-* [Принципы и приёмы написания эффективного кода. Александр Завьялов (Видео :movie_camera:)](https://www.youtube.com/watch?v=A__0VgwlBR0)
-* [Типичные ошибки начинающего верстальщика. Олег Мохов (Видео :movie_camera:)](https://www.youtube.com/watch?v=d4b3CiwSi9c)
-* [Не учите фреймворки, учите архитектуру](https://habrahabr.ru/post/253297/)
-* [О jQuery и Bootstrap: расставляем точки над «i». Андрей Романов](http://frontender.info/whats-wrong-with-jquery-and-bootstrap/)
-* [Цена использования фреймворков. Paul Lewis. Перевод Mail.Ru Group](https://habrahabr.ru/company/mailru/blog/273613/)
-* [Жизнь после js-фреймворков. Андрей Ваганов (Видео :movie_camera:)](https://www.youtube.com/watch?v=-W7kFbCXVqw)
-* [25 ошибок начинающего программиста. Перевод Рустама Апаева](https://habr.com/post/413129/)
-* [Ошибки и спорные вопросы в HTML-CSS вёрстке. Часть 1. Николай Громов](http://nicothin.pro/page/oshibki-i-spornye-voprosy-v-html-css-vjorstke)
-* [Ошибки и спорные вопросы в HTML-CSS вёрстке. Часть 2. Николай Громов](http://nicothin.pro/page/oshibki-i-spornye-voprosy-v-html-css-vjorstke-2)
-* [Ошибки и спорные вопросы в HTML-CSS вёрстке. Часть 3. Николай Громов](http://nicothin.pro/page/oshibki-i-spornye-voprosy-v-html-css-vjorstke-3)
-
 ## Анимация
 * [Производительность визуализации](https://developers.google.com/web/fundamentals/performance/rendering/)
 * [Аппаратное ускорение. Александр Завьялов (Видео :movie_camera:)](https://vimeo.com/97907079#at=3)
