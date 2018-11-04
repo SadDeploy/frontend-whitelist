@@ -30,7 +30,6 @@ Frontend WhiteList — это список полезных и интересн�
 * [Как работают замыкания (под капотом) в JavaScript. Hexlet](http://habrahabr.ru/company/hexlet/blog/266443/)
 * [Давайте выучим замыкания в JavaScript. Притти Кассириди. Перевод Елены Карякиной](https://htmlacademy.ru/blog/195-lets-learn-javascript-closures)
 * [Асинхронность в JavaScript: Пособие для тех, кто хочет разобраться. Wrike](https://habrahabr.ru/company/wrike/blog/302896/)
-* [Техники работы с DOM: родительские, дочерние и соседние элементы. Louis Lazaris. Перевод prgssr.ru](http://prgssr.ru/development/tehniki-raboty-s-dom-roditelskie-dochernie-i-sosednie-elementy.html)
 
 ## Анимация
 * [Производительность визуализации](https://developers.google.com/web/fundamentals/performance/rendering/)
