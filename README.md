@@ -40,7 +40,6 @@ Frontend WhiteList — это список полезных и интересн�
 * [Руководство по CSS Animation. Юлия Бухвалова](http://css.yoksel.ru/css-animation/)
 * [Всё, что вам нужно знать о CSS-свойстве will-change. Sara Soueidan. Перевод Opera Software](https://dev.opera.com/articles/ru/css-will-change-property/)
 * [Анимируем объекты с использованием физики в JavaScript. Елена Иванова (Видео :movie_camera:)](https://www.youtube.com/watch?v=UH3tKb7B5xA)
-* [Intermediate CSS3 Hover Effects. Пошаговый туториал](https://habrahabr.ru/post/274003/)
 
 ## Accessibility
 * [Браузеры наши меньшие, или Нам нужно серьёзно поговорить. Вадим Макеев](https://habrahabr.ru/company/oleg-bunin/blog/310210/)
