@@ -28,7 +28,6 @@ Frontend WhiteList — это список полезных и интересн�
 ## JavaScript
 * [4 вида утечек памяти в JavaScript и как с ними бороться. Андрей Алексеев](https://habrahabr.ru/post/309318/)
 * [S.O.L.I.D-ый JavaScript. Алексей Охрименко (Видео :movie_camera:)](https://www.youtube.com/watch?v=wi3wPzReKZQ)
-* [Классическое программирование для фронтендеров. Игорь Алексеенко (Видео :movie_camera:)](https://www.youtube.com/watch?v=b2AhDtFfSSU)
 * [Функциональное программирование в браузере. Никита Прокопов](http://tonsky.me/talks/2015-codefest/)
 * [Делаем свой JavaScript чистым. Jack Franklin. Перевод prgssr.ru](http://prgssr.ru/development/delaem-svoj-javascript-chistym.html)
 * [Сводная таблица с результатами работы условий](http://dorey.github.io/JavaScript-Equality-Table/)
