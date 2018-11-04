@@ -57,7 +57,6 @@ Frontend WhiteList — это список полезных и интересн�
 * [Модель отображения. Основы. Олег Мохов (Видео :movie_camera:)](https://www.youtube.com/watch?v=LVqg3N7QYVU)
 * [Модель отображения. Тонкости. Олег Мохов (Видео :movie_camera:)](https://www.youtube.com/watch?v=_FYV-EjTkfw)
 * [Модель отображения. Браузеры. Олег Мохов (Видео :movie_camera:)](https://www.youtube.com/watch?v=OGmzplOuRas)
-* [WebAPIs. Сергей Гоголев, Максим Воронцов, Олег Семичев (Видео :movie_camera:)](https://www.youtube.com/watch?v=OGmzplOuRas)
 * [Принципы работы современных веб-браузеров. Tali Garsiel и Paul Irish. Перевод html5rocks.com](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/)
 * [Весь веб на 60+ FPS: как новый рендерер в Firefox избавился от рывков и подтормаживаний. Лин Кларк](https://habrahabr.ru/post/340176/)
 
