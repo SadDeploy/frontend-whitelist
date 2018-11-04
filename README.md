@@ -30,7 +30,6 @@ Frontend WhiteList — это список полезных и интересн�
 * [S.O.L.I.D-ый JavaScript. Алексей Охрименко (Видео :movie_camera:)](https://www.youtube.com/watch?v=wi3wPzReKZQ)
 * [Функциональное программирование в браузере. Никита Прокопов](http://tonsky.me/talks/2015-codefest/)
 * [Делаем свой JavaScript чистым. Jack Franklin. Перевод prgssr.ru](http://prgssr.ru/development/delaem-svoj-javascript-chistym.html)
-* [Сводная таблица с результатами работы условий](http://dorey.github.io/JavaScript-Equality-Table/)
 * [Область видимости в JavaScript и «поднятие» переменных и объявлений функций](https://habrahabr.ru/post/127482/)
 * [Как работают замыкания (под капотом) в JavaScript. Hexlet](http://habrahabr.ru/company/hexlet/blog/266443/)
 * [Давайте выучим замыкания в JavaScript. Притти Кассириди. Перевод Елены Карякиной](https://htmlacademy.ru/blog/195-lets-learn-javascript-closures)
