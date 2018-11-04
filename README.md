@@ -54,7 +54,6 @@ Frontend WhiteList — это список полезных и интересн�
 * [Альтернативный текст для изображений. Ire Aderinokun. Перевод prgssr.ru](http://prgssr.ru/development/alternativnyj-tekst-dlya-izobrazhenij.html)
 * [Дизайн государственных систем](http://gov.design/blog/2016/11/08/accessibility.html)
 * [Слепая доступность. Юрий Артюх](http://cssing.org.ua/2016/12/26/blind-accessibility/)
-* [Web Content Accessibility Guidelines (WCAG) 2.0. Перевод Даниэля Новичкова](https://www.w3.org/Translations/WCAG20-ru/)
 
 ## Браузеры
 * [Модель отображения. Основы. Олег Мохов (Видео :movie_camera:)](https://www.youtube.com/watch?v=LVqg3N7QYVU)
