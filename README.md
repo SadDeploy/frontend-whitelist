@@ -71,7 +71,6 @@ Frontend WhiteList — это список полезных и интересн�
 * [Верстка. Вид снизу. Марина Широчкина (Видео :movie_camera:)](https://www.youtube.com/watch?v=9HYHxky799o)
 * [Фронтенд. Сетевое взаимодействие. Артем Мезин и Егор Дыдыкин (Видео :movie_camera:)](https://www.youtube.com/watch?v=feEs6aymPj4)
 * [Загрузка главной страницы. Павел Минеев (Видео :movie_camera:)](https://www.youtube.com/watch?time_continue=32&v=k5rbC0mBK9A)
-* [Оптимизация фронтенда. Олег Мохов (Видео :movie_camera:)](https://www.youtube.com/watch?v=Vn1jyRdEbjg)
 * [Improving Smashing Mag's Performance. Виталий Фридман (Видео :movie_camera:)](https://www.youtube.com/watch?v=ri2XWgIt59U)
 
 ## Не про код
