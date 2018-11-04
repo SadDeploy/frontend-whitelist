@@ -76,7 +76,6 @@ Frontend WhiteList — это список полезных и интересн�
 * [Improving Smashing Mag's Performance. Виталий Фридман (Видео :movie_camera:)](https://www.youtube.com/watch?v=ri2XWgIt59U)
 
 ## Не про код
-* [Словарь терминов по фронтенду. Вадим Макеев и Ольга Алексашенко](https://github.com/web-standards-ru/dictionary)
 * [36. Вадим Макишвили (Видео :movie_camera:)](https://vimeo.com/108327741)
 * [Как я перестал верить технологиям. Алексей Симоненко (Видео :movie_camera:)](https://www.youtube.com/watch?v=p5g4giWmcvE)
 * ["Старикам здесь не место?". Олег Мохов и Алексей Симоненко (Видео :movie_camera:)](https://youtu.be/ISmD4Lik5oY?list=PLMBnwIwFEFHekmHQcApwkIzEfG8UJ_f-7)
