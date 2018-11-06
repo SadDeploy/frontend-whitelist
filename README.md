@@ -57,7 +57,6 @@ Frontend WhiteList — это список полезных и интересн�
 * [Представляем RAIL: модель оценки производительности сайта. Paul Irish и Paul Lewis. Перевод Николая Мациевского](https://habrahabr.ru/post/308026/)
 * [В погоне за производительностью. Денис Мишунов (Видео :movie_camera:)](https://www.youtube.com/watch?v=egiLQun-FxI)
 * [Верстка. Вид снизу. Марина Широчкина (Видео :movie_camera:)](https://www.youtube.com/watch?v=9HYHxky799o)
-* [Загрузка главной страницы. Павел Минеев (Видео :movie_camera:)](https://www.youtube.com/watch?time_continue=32&v=k5rbC0mBK9A)
 * [Improving Smashing Mag's Performance. Виталий Фридман (Видео :movie_camera:)](https://www.youtube.com/watch?v=ri2XWgIt59U)
 
 ## Не про код
