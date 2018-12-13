@@ -37,7 +37,7 @@ Frontend WhiteList — это список полезных и интересн�
 * [Всё, что вам нужно знать о CSS-свойстве will-change. Sara Soueidan. Перевод Opera Software](https://dev.opera.com/articles/ru/css-will-change-property/)
 * [Анимируем объекты с использованием физики в JavaScript. Елена Иванова (Видео :movie_camera:)](https://www.youtube.com/watch?v=UH3tKb7B5xA)
 
-## Accessibility
+## A11y
 * [Браузеры наши меньшие, или Нам нужно серьёзно поговорить. Вадим Макеев](https://habrahabr.ru/company/oleg-bunin/blog/310210/)
 * [Альтернативный текст для изображений. Ire Aderinokun. Перевод prgssr.ru](http://prgssr.ru/development/alternativnyj-tekst-dlya-izobrazhenij.html)
 * [UX-мифы. Zoltán Gócza и Zoltán Kollin. Перевод Рината Рехимкулова и Петра Андрианова](http://ru.uxmyths.com/)
