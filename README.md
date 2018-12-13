@@ -34,7 +34,6 @@ Frontend WhiteList — это список полезных и интересн�
 * [Производительность визуализации](https://developers.google.com/web/fundamentals/performance/rendering/)
 * [Аппаратное ускорение. Александр Завьялов (Видео :movie_camera:)](https://vimeo.com/97907079#at=3)
 * [Веб-анимация на JS и CSS. Александр Завьялов (Видео :movie_camera:)](https://vimeo.com/141266409)
-* [Руководство по CSS Animation. Юлия Бухвалова](http://css.yoksel.ru/css-animation/)
 * [Всё, что вам нужно знать о CSS-свойстве will-change. Sara Soueidan. Перевод Opera Software](https://dev.opera.com/articles/ru/css-will-change-property/)
 * [Анимируем объекты с использованием физики в JavaScript. Елена Иванова (Видео :movie_camera:)](https://www.youtube.com/watch?v=UH3tKb7B5xA)
 
