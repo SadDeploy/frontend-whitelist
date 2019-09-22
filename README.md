@@ -73,6 +73,3 @@ Frontend WhiteList — это список полезных и интересн�
 1. [Стас Мельников](https://stas-melnikov.ru) 
 2. [Артем Андреев](https://github.com/grachpower)
 3. [Все редакторы](https://github.com/melnik909/frontend-whitelist/graphs/contributors)
-
----
-Пишу больше обучающего контента для своих фанатов на [Patreon](https://www.patreon.com/melnik909). Стоимость подписки 9$.
